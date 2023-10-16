@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "type": "orange-road"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           [

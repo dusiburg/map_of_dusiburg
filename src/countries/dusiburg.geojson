@@ -6703,6 +6703,36 @@
         "type": "Point"
       },
       "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гугаркино",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          11.097396436944905,
+          43.882200953139375
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Новогугаркино",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          10.916186329969264,
+          43.933154381096074
+        ],
+        "type": "Point"
+      },
+      "id": 6
     }
   ]
 }
