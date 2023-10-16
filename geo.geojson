@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "dusiburg",
-        "fill": "#09aa1c",
-        "stroke": "#09aa1c",
+        "fill": "#02a4e8",
+        "stroke": "#0084bb",
         "tags": [
-          "nato"
+          "Международный Экономическо-Политический Союз"
         ],
         "area": "2 725 002.12"
       },
