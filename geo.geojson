@@ -7416,6 +7416,141 @@
         "type": "Point"
       },
       "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Марсель"
+      },
+      "geometry": {
+        "coordinates": [
+          5.371581432073583,
+          43.299419621253946
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Равенна"
+      },
+      "geometry": {
+        "coordinates": [
+          12.201789521849207,
+          44.41617859651075
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Болонья"
+      },
+      "geometry": {
+        "coordinates": [
+          11.343017261281489,
+          44.49377301482062
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Рим"
+      },
+      "geometry": {
+        "coordinates": [
+          12.482934954839493,
+          41.89331814141758
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Берн"
+      },
+      "geometry": {
+        "coordinates": [
+          7.452416787133274,
+          46.94844429821478
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Цюррих"
+      },
+      "geometry": {
+        "coordinates": [
+          8.541086133930037,
+          47.37471349089904
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Кокосово"
+      },
+      "geometry": {
+        "coordinates": [
+          21.16450255432099,
+          42.663213654497355
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Стамбул"
+      },
+      "geometry": {
+        "coordinates": [
+          28.966148998027478,
+          41.00964686467705
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Миусинск"
+      },
+      "geometry": {
+        "coordinates": [
+          30.805988084390407,
+          48.66393043531099
+        ],
+        "type": "Point"
+      },
+      "id": 13
     }
   ]
 }
