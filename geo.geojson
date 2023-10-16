@@ -6670,6 +6670,21 @@
         ]
       },
       "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дусибург",
+        "type": "capital-city"
+      },
+      "geometry": {
+        "coordinates": [
+          11.254008805917664,
+          43.771501603408666
+        ],
+        "type": "Point"
+      },
+      "id": 1
     }
   ]
 }
