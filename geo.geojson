@@ -7436,36 +7436,6 @@
       "type": "Feature",
       "properties": {
         "type": "city",
-        "name": "Равенна"
-      },
-      "geometry": {
-        "coordinates": [
-          12.201789521849207,
-          44.41617859651075
-        ],
-        "type": "Point"
-      },
-      "id": 6
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "city",
-        "name": "Болонья"
-      },
-      "geometry": {
-        "coordinates": [
-          11.343017261281489,
-          44.49377301482062
-        ],
-        "type": "Point"
-      },
-      "id": 7
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "city",
         "name": "Рим"
       },
       "geometry": {
@@ -7475,37 +7445,7 @@
         ],
         "type": "Point"
       },
-      "id": 8
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "city",
-        "name": "Берн"
-      },
-      "geometry": {
-        "coordinates": [
-          7.452416787133274,
-          46.94844429821478
-        ],
-        "type": "Point"
-      },
-      "id": 9
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "city",
-        "name": "Цюррих"
-      },
-      "geometry": {
-        "coordinates": [
-          8.541086133930037,
-          47.37471349089904
-        ],
-        "type": "Point"
-      },
-      "id": 10
+      "id": 6
     },
     {
       "type": "Feature",
@@ -7520,7 +7460,337 @@
         ],
         "type": "Point"
       },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Одесса"
+      },
+      "geometry": {
+        "coordinates": [
+          30.73199377947185,
+          46.48386044091819
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Тирасполь"
+      },
+      "geometry": {
+        "coordinates": [
+          29.611058763583742,
+          46.8369527568436
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Измаил"
+      },
+      "geometry": {
+        "coordinates": [
+          28.83617784860695,
+          45.35122195473261
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Констанца"
+      },
+      "geometry": {
+        "coordinates": [
+          28.650873476194988,
+          44.17735729377259
+        ],
+        "type": "Point"
+      },
       "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Бухарест"
+      },
+      "geometry": {
+        "coordinates": [
+          26.102488914565527,
+          44.435521941551514
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Бургас"
+      },
+      "geometry": {
+        "coordinates": [
+          27.472050227535448,
+          42.49395259530638
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Влора"
+      },
+      "geometry": {
+        "coordinates": [
+          19.491227391240756,
+          40.47077784599426
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Тиват"
+      },
+      "geometry": {
+        "coordinates": [
+          18.69554673389436,
+          42.42978371895373
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Белгород"
+      },
+      "geometry": {
+        "coordinates": [
+          20.457396672021304,
+          44.81840603624909
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Будапешт"
+      },
+      "geometry": {
+        "coordinates": [
+          19.04045887099656,
+          47.49837713589753
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Дебрецен"
+      },
+      "geometry": {
+        "coordinates": [
+          21.626411456092654,
+          47.531905516629024
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Винница"
+      },
+      "geometry": {
+        "coordinates": [
+          28.468889626169897,
+          49.232972790327835
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Пшемысль"
+      },
+      "geometry": {
+        "coordinates": [
+          22.769636659884583,
+          49.784481733044515
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Брест"
+      },
+      "geometry": {
+        "coordinates": [
+          23.685288440426206,
+          52.093837684734524
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Милан",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          9.191626550454487,
+          45.46417772147731
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Базель",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          7.587966274164813,
+          47.55786481704445
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Киль",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          10.13553146519942,
+          54.32286080693427
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Перпиньян"
+      },
+      "geometry": {
+        "coordinates": [
+          2.894521789671643,
+          42.69919336909652
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Равенна"
+      },
+      "geometry": {
+        "coordinates": [
+          12.201789521849207,
+          44.41617859651075
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Болонья"
+      },
+      "geometry": {
+        "coordinates": [
+          11.343017261281489,
+          44.49377301482062
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Берн"
+      },
+      "geometry": {
+        "coordinates": [
+          7.452416787133274,
+          46.94844429821478
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Цюррих"
+      },
+      "geometry": {
+        "coordinates": [
+          8.541086133930037,
+          47.37471349089904
+        ],
+        "type": "Point"
+      },
+      "id": 29
     },
     {
       "type": "Feature",
@@ -7535,7 +7805,7 @@
         ],
         "type": "Point"
       },
-      "id": 12
+      "id": 30
     },
     {
       "type": "Feature",
@@ -7550,7 +7820,502 @@
         ],
         "type": "Point"
       },
-      "id": 13
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Хмельницкий"
+      },
+      "geometry": {
+        "coordinates": [
+          26.978248497816395,
+          49.419847256829456
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Тернополь"
+      },
+      "geometry": {
+        "coordinates": [
+          25.594887158370938,
+          49.55103505116077
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Львов"
+      },
+      "geometry": {
+        "coordinates": [
+          24.03140924253057,
+          49.84196032220916
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Ивано-Францийск"
+      },
+      "geometry": {
+        "coordinates": [
+          24.710380421337334,
+          48.922756384481204
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кривне",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          26.251406778994834,
+          50.61977636208269
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Житомир",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          28.669584460736615,
+          50.26054695999099
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сицилия",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          15.088278481804338,
+          37.50245551443092
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кальяри",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          9.113302816168925,
+          39.21730679243257
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Царьград",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          11.125825834305488,
+          46.06598066419079
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Женева",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14658596654246,
+          46.20184334765031
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Паерн",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          6.9389876472238825,
+          46.82087679728099
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Констанца Швейцарская"
+      },
+      "geometry": {
+        "coordinates": [
+          9.174646757219875,
+          47.65922816429682
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Санкт-Галлен"
+      },
+      "geometry": {
+        "coordinates": [
+          9.376406967539111,
+          47.42532034664137
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Франкфурт"
+      },
+      "geometry": {
+        "coordinates": [
+          8.680763627359283,
+          50.111189611052026
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Дуссельдорф"
+      },
+      "geometry": {
+        "coordinates": [
+          6.776456733879655,
+          51.225930343012294
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Дуйсбург"
+      },
+      "geometry": {
+        "coordinates": [
+          6.759749238173725,
+          51.43533899537809
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Брюссель"
+      },
+      "geometry": {
+        "coordinates": [
+          4.351724857882601,
+          50.84650773045928
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Миддельбург"
+      },
+      "geometry": {
+        "coordinates": [
+          3.613406693158396,
+          51.49953706248593
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Гаага"
+      },
+      "geometry": {
+        "coordinates": [
+          4.312286442058394,
+          52.08025225166537
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Амстердам"
+      },
+      "geometry": {
+        "coordinates": [
+          4.894704848392308,
+          52.373575868916305
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Бременсхафен"
+      },
+      "geometry": {
+        "coordinates": [
+          8.584617822907603,
+          53.551369566221666
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Гамбург"
+      },
+      "geometry": {
+        "coordinates": [
+          10.000894021507946,
+          53.550051217734676
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Любек"
+      },
+      "geometry": {
+        "coordinates": [
+          10.685432381861489,
+          53.8663147413437
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Росток"
+      },
+      "geometry": {
+        "coordinates": [
+          12.129937176646337,
+          54.09274099822676
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Саар"
+      },
+      "geometry": {
+        "coordinates": [
+          6.9996073459216746,
+          49.23385673172561
+        ],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Баён"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.471653722141383,
+          43.49439257985071
+        ],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Бордо"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.5779662442565439,
+          44.845107024032615
+        ],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Каён"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.36371943707806054,
+          49.181358163665664
+        ],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Хавр"
+      },
+      "geometry": {
+        "coordinates": [
+          0.10781338080352043,
+          49.494342580103336
+        ],
+        "type": "Point"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Парж"
+      },
+      "geometry": {
+        "coordinates": [
+          2.348363358353879,
+          48.85579309960127
+        ],
+        "type": "Point"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Корсаков"
+      },
+      "geometry": {
+        "coordinates": [
+          142.78101019353062,
+          46.63279751304722
+        ],
+        "type": "Point"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Углегорск"
+      },
+      "geometry": {
+        "coordinates": [
+          142.0638112190071,
+          49.080253909207045
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "Сахалинск"
+      },
+      "geometry": {
+        "coordinates": [
+          143.1364028618799,
+          51.79534461383645
+        ],
+        "type": "Point"
+      },
+      "id": 64
     }
   ]
 }
