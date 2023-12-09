@@ -7586,7 +7586,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "airport",
-        "description": "LDDA"
+        "description": "Код: LDDA<br>Тип: Совместное использование"
       },
       "geometry": {
         "coordinates": [
