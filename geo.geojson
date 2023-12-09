@@ -10422,10 +10422,7 @@
       "type": "Feature",
       "properties": {
         "name": "Международный Аэропорт г. Дусибург",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "airport",
-        "description": "Код: LDDA<br>Тип: Совместное использование",
+        "description": "Код: LDCA<br>Тип: Совместное использование",
         "type": "city"
       },
       "geometry": {
@@ -10436,6 +10433,326 @@
         "type": "Point"
       },
       "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Аэропорт г. Рим \"Фьюмичино\"",
+        "description": "Код: LDCR<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          12.251452827060291,
+          41.8044985703207
+        ],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Аэропорт г. Болонья",
+        "description": "Код: LDCB<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          11.28895588205421,
+          44.5354801927796
+        ],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бернский Аэропорт",
+        "description": "Код: LDAB<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          7.498137973001349,
+          46.91340459820796
+        ],
+        "type": "Point"
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт Паерна",
+        "description": "Код: LDAP<br>Тип: Гражданский",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          6.914742611055459,
+          46.84301644095629
+        ],
+        "type": "Point"
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Цюррихский Аэропорт",
+        "description": "Код: LDAZ<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          8.54780996080757,
+          47.45817018069317
+        ],
+        "type": "Point"
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт Марселя",
+        "description": "Код: LDOM<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2148213039302505,
+          43.43692267763325
+        ],
+        "type": "Point"
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт Бордо",
+        "description": "Код: LDOB<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.7167669977712876,
+          44.82930151242746
+        ],
+        "type": "Point"
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт г. Париж \"Шарль-Де-Голль\"",
+        "description": "Код: LDBA<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4373455794796826,
+          48.96450776689889
+        ],
+        "type": "Point"
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Брюссельский Аэропорт",
+        "description": "Код: LDNB<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          4.4914708761179725,
+          50.901269646944655
+        ],
+        "type": "Point"
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт Амстердама",
+        "description": "Код: LDNA<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          4.788063339460223,
+          52.31083506247501
+        ],
+        "type": "Point"
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гамбургский Аэропорт",
+        "description": "Код: LDNH<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          9.993671059271776,
+          53.63308938940472
+        ],
+        "type": "Point"
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт г. Милан \"Мальпенса\"",
+        "description": "Код: LDAM<br>Тип: Гражданский",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          8.723614926847233,
+          45.62866030372791
+        ],
+        "type": "Point"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт Белграда",
+        "description": "Код: LDLB<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          20.30492788831799,
+          44.81742400761536
+        ],
+        "type": "Point"
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сицилийский Международный Аэропорт",
+        "description": "Код: LDMC<br>Тип: Гражданский",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          15.062049474721846,
+          37.46563461242857
+        ],
+        "type": "Point"
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Аэропорт Реадмер",
+        "description": "Код: LDCR<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          16.753790181456992,
+          41.13661653694061
+        ],
+        "type": "Point"
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт г. Стамбул \"Байрактар\"",
+        "description": "Код: LDSA<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          28.817018103821653,
+          40.97350317635647
+        ],
+        "type": "Point"
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэропорт г. Бургас",
+        "description": "Код: LDLU<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          27.514800686826646,
+          42.56852595670159
+        ],
+        "type": "Point"
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Аэропорт Одессы",
+        "description": "Код: LDUO<br>Тип: Совместное использование",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          30.678925341961673,
+          46.425648294483324
+        ],
+        "type": "Point"
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Миусинский Аэропорт",
+        "description": "Код: LDUM<br>Тип: Гражданский",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          30.772251575500547,
+          48.71273016453762
+        ],
+        "type": "Point"
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Аэродром Корсакова",
+        "description": "Код: LDHA<br>Тип: Гражданский",
+        "type": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          142.8126249355642,
+          46.61740963369758
+        ],
+        "type": "Point"
+      },
+      "id": 86
     }
   ]
 }
