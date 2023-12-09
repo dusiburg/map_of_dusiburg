@@ -10742,7 +10742,7 @@
       "type": "Feature",
       "properties": {
         "name": "Аэродром Корсакова",
-        "description": "Код: LDHA<br>Тип: Гражданский",
+        "description": "Код: UDHA<br>Тип: Гражданский",
         "type": "city"
       },
       "geometry": {
