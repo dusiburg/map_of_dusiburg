@@ -7578,6 +7578,24 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Международный Аэропорт г. Дусибург",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name_ru": "LDDA"
+      },
+      "geometry": {
+        "coordinates": [
+          11.202991051906338,
+          43.80864451511738
+        ],
+        "type": "Point"
+      },
+      "id": 67
     }
   ]
 }
